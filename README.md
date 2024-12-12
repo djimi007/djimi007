@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Djamel Aziz</h1>
 <h3 align="center">A Mobile apps developer from Algeria</h3>
 
-- 💬What i do **react-native,nodejs,expo,mobile**
+- 👨‍💻 What i use : **react-native,nodejs,expo,mobile**
 
 - 📫 How to reach me **djamelsamili0@gmail.com**
 
